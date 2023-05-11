@@ -2,8 +2,7 @@
 
 <div>
 	<a href="https://beacons.ai/dyiogomartins">
-	<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dyiogomartins&show_icons=true&theme=dark"/>
-	<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyiogomartins&show_icons=true&theme=dark"/>
+	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=dyiogomartins&show_icons=true&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
